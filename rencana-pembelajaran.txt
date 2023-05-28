@@ -2,3 +2,5 @@ Rencana:
 - Belajar bahasa pemrograman Javascript(main) & python(side).
 - Menentukan jalur yang ingin dipilih.(seperti: front-end, back-end, Fullstack, etc.)
 - Berusaha untuk membuat project dari apa yang telah dipelajari.
+- Mengembangkan soft-skill. (seperti: Public-speaking, Time-management, etc.)
+- Konsistensi dalam belajar.
